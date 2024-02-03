@@ -1207,17 +1207,14 @@
     #inrealm
     {
         position: relative;
-        display: inline-block;
-        border-width: 0.1px;
-        padding-right: 182px;
-        padding-left: 182px;
+        padding-right: 182.6px;
+        padding-left: 182.6px;
         padding-top: 65px;
         font-size: 80px;
         font-weight: 500;
         height: 500px;
-        width: 1519.6px;
+        width: 1520px;
         margin-top: -23px;
-        border: solid black;
     }
 
     #busihandshak
@@ -1228,6 +1225,7 @@
         background-size: 650px;
         margin-top: 476px;
         position: absolute;
+        border: solid rgb(228, 226, 226) 0.1px;
     }
 
     [data-aos] 
