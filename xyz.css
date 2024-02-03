@@ -1193,7 +1193,7 @@
         width: 1520px;
         padding-right: 450px;
         padding-left: 450px;
-        padding-top: 128px;
+        padding-top: 135px;
     }
 
     #brandsimg
@@ -1209,9 +1209,9 @@
     #inrealm
     {
         position: relative;
-        padding-right: 182.6px;
-        padding-left: 182.6px;
-        padding-top: 68px;
+        padding-right: 180px;
+        padding-left: 180px;
+        padding-top: 72px;
         font-size: 80px;
         font-weight: 500;
         height: 500px;
